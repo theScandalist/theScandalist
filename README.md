@@ -22,8 +22,6 @@ HenowNU16vH2Uiwr9jSi8T6DBkVx3VWUXKehDVGdQQJF
 ## EXPLORER 
 https://explorer.nymtech.net/network-components/mixnode/1472
 
-## OTHER CONTACTS 
-Email: aps.dkarpuschkin@gmail.com
-Twitter: https://twitter.com/d_karpushkin
-Telegram: https://t.me/def_dilla
-Discord: https://discordapp.com/users/818147139036381194
+## OTHER CONTACTS
+[<img src='https://github.com/theScandalist/theScandalist/assets/72867830/2a9eac13-a083-49fa-92c5-4de3333ecd7d' alt='MAIL'  width='25%'>](mailto:aps.dkarpuschkin@gmail.com)[<img src='https://github.com/theScandalist/theScandalist/assets/72867830/d37ef080-3d93-4a26-830e-dbfed2fee7f2' alt='Telegram'  width='25%'>](https://t.me/def_dilla)[<img src='https://github.com/theScandalist/theScandalist/assets/72867830/7accbe65-c72b-4c2c-8caf-38e4c3a1f8b7' alt='Github'  width='25%'>](https://github.com/theScandalist)[<img src='https://github.com/theScandalist/theScandalist/assets/72867830/4dde7a56-c8ac-4383-8a4e-95400ca52ab0' alt='Twitter'  width='25%'>](https://twitter.com/d_karpushkin) 
+
