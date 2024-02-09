@@ -8,7 +8,17 @@ Hey! My name is Dmitry and I am a crypto enthusiast. My experience in the blockc
 I joined NYM relatively recently, but was strongly inspired by the idea and spirit of the project. 
 By launching my first MIxnode NYM, I want to actively contribute to the mission of ensuring privacy for all. I also want to help NYM become more decentralized, so I chose an unpopular but secure VPS hosting and launched my node in location Pakistan.
 
-Come and delegate your NYM 🤝
+✅ For more decentralization, located in a rare location.
+
+✅ Unpopular but trusted VPS provider.
+
+✅ 24/7 monitoring, alerts, instant reaction.
+
+✅ Timely updates.
+
+✅ Security and backups.
+
+### Come and delegate your NYM 🤝
 
 ## IDENTITY KEY
 HenowNU16vH2Uiwr9jSi8T6DBkVx3VWUXKehDVGdQQJF
