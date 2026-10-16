@@ -4,6 +4,7 @@
 <p align="center"><img src="./atelier/header.svg" width="100%" alt="scandalist"/></p>
 
 <p align="center">
+  <a href="https://x.com/dkarpushkin"><img src="./atelier/social-x.svg" height="36" alt="@dkarpushkin"/></a>&nbsp;
   <a href="https://github.com/theScandalist"><img src="./atelier/social-github.svg" height="36" alt="theScandalist"/></a>
 </p>
 
