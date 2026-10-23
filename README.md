@@ -13,7 +13,7 @@
   <img src="./atelier/languages.4435a915.svg" width="49%" alt="Top languages"/>
 </p>
 
-<p align="center"><img src="./atelier/activity.a4180ef0.svg" width="100%" alt="Contribution activity"/></p>
+<p align="center"><img src="./atelier/activity.885cea62.svg" width="100%" alt="Contribution activity"/></p>
 
 <p align="center">
   <a href="https://github.com/theScandalist/gamestop"><img src="./atelier/repo-1.e781de1e.svg" width="49%" alt="gamestop"/></a>
@@ -22,6 +22,6 @@
   <a href="https://github.com/theScandalist/dustside"><img src="./atelier/repo-4.ce52c85f.svg" width="49%" alt="dustside"/></a>
 </p>
 
-<p align="center"><img src="./atelier/footer.3d1d69d9.svg" width="100%" alt="Footer"/></p>
+<p align="center"><img src="./atelier/footer.2f90f25e.svg" width="100%" alt="Footer"/></p>
 
 <!-- readme-atelier:end -->
